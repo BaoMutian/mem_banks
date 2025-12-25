@@ -1,0 +1,8 @@
+# Generated files
+visualization.html
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
